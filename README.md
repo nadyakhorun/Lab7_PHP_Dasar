@@ -61,6 +61,7 @@ Untuk menjalankan Web server dari menu XAMPP Control.
 • Uji coba apakah server sudah berkerja dengan baik
 
 http://127.0.0.1 atau http://localhost
+
 Tampil halaman utama XAMPP jika server sudah berkerja dengan baik.
 
 • Dokumen Website
@@ -70,6 +71,7 @@ Semua file website tempatkan di direktori: \xampp\htdocs\
 • Database MySQL
 
 Direktori: \xampp\mysql\
+
 Manajemen database: http://localhost/phpmyadmin
 
 # 5. Memulai PHP
@@ -78,7 +80,7 @@ Manajemen database: http://localhost/phpmyadmin
 
 ![htdocs](https://github.com/nadyakhorun/Lab7_PHP_Dasar/assets/115801823/b39f8acd-86bc-4fda-af96-6c1f1c964c2b)
 
-- Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
+- Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: 
 http://localhost/lab7_php_dasar/
 
 ![localhost](https://github.com/nadyakhorun/Lab7_PHP_Dasar/assets/115801823/02a782d5-bfd8-4914-ad93-7ee5b992756e)
