@@ -307,4 +307,8 @@ berbeda-beda sesuai pilihan pekerjaan.
         </body>
         </html>
 
+![form input](https://github.com/nadyakhorun/Lab7_PHP_Dasar/assets/115801823/49f55293-8ac4-4c89-a07c-231e6676612e)
+
+![form input php1](https://github.com/nadyakhorun/Lab7_PHP_Dasar/assets/115801823/863fc975-c636-4cdb-bf8a-b08f93effd45)
+
 # Sekian dan Terima Kasih
